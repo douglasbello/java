@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/study-testing.iml" filepath="$PROJECT_DIR$/study-testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/functional-interfaces.iml" filepath="$PROJECT_DIR$/functional-interfaces.iml" />
     </modules>
   </component>
 </project>
